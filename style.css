@@ -1,0 +1,139 @@
+h1, h2{
+/*  font-family: 'Open Sans';*/
+  font-family: 'Abril Fatface', cursive;
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 10px;
+}
+
+td{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+ul{
+  list-style-type: none;
+  padding: 0;
+}
+
+li{
+    display: inline;
+}
+
+.profil{
+  margin: auto;
+  text-align: center;
+  width: 45%;
+  padding: 20px;
+}
+
+.card{
+  background-color: rgb(250, 250, 250);
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding-top: 15px;
+}
+
+.profile-picture{
+  border-radius: 50%;
+  width: 280px;
+}
+
+.icons{
+  font-size: 40px;
+  padding: 0;
+  color: #3e5178;
+}
+
+.title-txt{
+  font-size: 70px;
+  letter-spacing: 1px;
+  color: #ff6568;
+  text-decoration: underline;
+  margin-top: -2px;
+  margin-bottom: -8px;
+}
+
+h2{
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.favorite-movies{
+  color: #3e5178;
+  font-size: 40px;
+  text-align: center;
+}
+.more-to-do{
+  color: #3e5178;
+  font-size: 40px;
+}
+
+.look-at-this{
+  color: #3e5178;
+  font-size: 30px;
+  text-decoration: none;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.social-media-icons{
+  background-color: rgb(250, 250, 250);
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.social-media-outside-div{
+  background-color: rgb(250, 250, 250);
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+.movies-div{
+  background-color: rgb(250, 250, 250);
+  margin: auto;
+  text-align: left;
+  width: 60%;
+}
+
+.movies-text{
+  margin-left: 10px;
+  padding-left: 20px;
+  vertical-align: top;
+  line-height: 30px
+}
+
+.movies-img{
+  width: 200px;
+}
+
+.outer-movies-div{
+  background-color: rgb(250, 250, 250);
+  width: 80%;
+  margin: 0 auto;
+}
+
+.nice-icons{
+  margin: auto;
+  text-align: center;
+  width: 60%;
+}
+
+.nice-icons-outer{
+  background-color: rgb(250, 250, 250);
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.nice-icons_small{
+  font-size: 40px;
+  padding-left: 10;
+  color: #ff6568;
+  padding-right: 20px;
+}
